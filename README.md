@@ -1,1 +1,1 @@
-# ITRI_auto_polygon
+# auto_polygon
